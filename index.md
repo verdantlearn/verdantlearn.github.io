@@ -8,6 +8,8 @@ layout: index
 
 You can see the available courses by visiting our **Courses** section above
 
+:point_up: You can see the available courses by visiting our [Courses]({% link modules//Courses/_posts/2000-01-01-available-now.md %}) section above
+
 ## Community
 
 Find out about our community in the **Community** section above
