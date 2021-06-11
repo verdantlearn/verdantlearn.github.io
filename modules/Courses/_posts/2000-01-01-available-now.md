@@ -4,7 +4,7 @@ title: GIS
 
 ## GIS courses
 
-Registration is open for our beginner GIS course, part-time f:
+Registration is open for our beginner GIS course:
 1. **[GIS for beginners](https://verdantlearn-courses.webflow.io/gis-beginners)** *(15-20 hours)* - study from 14 June to 11 July 2021, **registration deadline** 17:00 UTC Monday 14 June 2021
 
 The courses below ran in May 2021, and are in the process of being updated before we release them under an open licence:
