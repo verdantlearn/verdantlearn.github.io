@@ -10,8 +10,7 @@ You can see the available courses by visiting our [Courses]({% link modules//Cou
 
 ## Community
 
-Find out about our conservation capacity building community and join it in the [Community]({% link modules/Community/_posts/2000-01-01-community.md %}) section above
-
+Find out about our community in the **Community** section above
 
 <br> 
 
