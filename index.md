@@ -10,7 +10,8 @@ layout: index
 
 ## Community
 
-Find out about our community in the **Community** section above
+Find out about our community in the [Community]({% link modules/Community/_posts/2000-01-01-community.md %}) section above
+
 
 <br> 
 
