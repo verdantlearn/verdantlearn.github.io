@@ -6,11 +6,11 @@ layout: index
 
 ## Courses
 
-:point_up: You can see the available courses by clicking on **Courses** above
+:point_up: You can see the available courses by visiting our [Courses]({% link modules//Courses/_posts/2000-01-01-available-courses.md %}) section above
 
 ## Community
 
-Find out about our community in the [Community]({% link modules/Community/_posts/2000-01-01-community.md %}) section above
+Find out about our conservation capacity building community and join it in the [Community]({% link modules/Community/_posts/2000-01-01-community.md %}) section above
 
 
 <br> 
