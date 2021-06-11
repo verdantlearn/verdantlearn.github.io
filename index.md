@@ -6,7 +6,7 @@ layout: index
 
 ## Courses
 
-You can see the available courses by visiting our [Courses]({% link modules//Courses/_posts/2000-01-01-available-courses.md %}) section above
+You can see the available courses by visiting our [Courses]({% link modules//Courses/_posts/2000-01-01-available-now.md %}) section above
 
 ## Community
 
