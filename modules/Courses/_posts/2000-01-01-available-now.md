@@ -17,4 +17,4 @@ The courses below ran in May 2021, and are in the process of being updated befor
 ### Tutored courses
 
 Registration is open for our paid beginner GIS course:
-1. **[Introducing GIS for conservation](https://verdantlearn-courses.webflow.io/gis-beginners-nov-2021)** *(20 hours over 4 weeks)* - study from 22 November to 19 December 2021, **registration deadline** 13:00 UTC Friday 19 November 2021, **cost** £200-300
+1. **[Introducing GIS for conservation](https://verdantlearn-courses.webflow.io/courses/gis-beginners-nov-2021)** *(20 hours over 4 weeks)* - study from 22 November to 19 December 2021, **registration deadline** 13:00 UTC Friday 19 November 2021, **cost** £200-300
