@@ -2,10 +2,12 @@
 title: Courses available now
 ---
 
+## List of courses
+
 > For an up-to-date list of VerdantLearn's courses and learning resources, please visit [www.verdantlearn.com/courses](https://verdantlearn.com/courses)
 
 
-## GIS self-study materials
+### GIS self-study materials hosted here
 
 Available now:
 1. **[Introducing GIS for conservation](https://courses.verdantlearn.org/gis-beginner-oe4bw/)**
